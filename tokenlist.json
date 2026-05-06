@@ -1,0 +1,19 @@
+{
+  "name": "MYMATRIX Token List",
+  "timestamp": "2026-01-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "PASTE_YOUR_CONTRACT_ADDRESS_HERE",
+      "name": "MYMATRIX",
+      "symbol": "MTX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/YOUR_USERNAME/mtx-token-list/main/logo.png"
+    }
+  ]
+}
