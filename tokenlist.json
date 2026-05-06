@@ -10,10 +10,10 @@
     {
       "chainId": 11155111,
       "address": "0x0b701Ae1480526dEb7DFE7A2a9Bd7B2d49E447c0",
-      "name": "MYMATRIX",
-      "symbol": "MTX",
+      "name": "Tether USDT",
+      "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/YOUR_USERNAME/mtx-token-list/main/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/matrixinorg-svg/token-list/main/logo.png"
     }
   ]
 }
