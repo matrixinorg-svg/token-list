@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 11155111,
-      "address": "PASTE_YOUR_CONTRACT_ADDRESS_HERE",
+      "address": "0x0b701Ae1480526dEb7DFE7A2a9Bd7B2d49E447c0",
       "name": "MYMATRIX",
       "symbol": "MTX",
       "decimals": 18,
